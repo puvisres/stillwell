@@ -1,10 +1,7 @@
 # Example Stillwell Collection
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
-
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+Trying Collection Builder as an alternative to Omeka for static site generation and flat metadata. 
+The next steps: processing the images into tiled TIFFs for a serverless-iiif AWS S3 bucket. All images on the Stillwell collection site will be freely available. 
 
 ## Brief Overview of Building a Collection
 
