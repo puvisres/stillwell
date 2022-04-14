@@ -52,8 +52,8 @@ metadata: demo-metadata
 #
 organization-name: "Visual Resources, Department of Art and Archaeolog"
 organization-link: https://visualresources.princeton.edu
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: LOGOvr.png
+organization-logo-nav: LOGOvr.png
 
 ##########
 # GOOGLE SERVICES [optional!]
