@@ -23,7 +23,7 @@ title: The Richard Stillwell Collection
 tagline: from the Visual Resources Collection of the Department of Art and Archaeology
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Photographs taken by Richard Stillwell"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: archaeology;history;Greece
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -51,7 +51,7 @@ metadata: demo-metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Visual Resources, Department of Art and Archaeolog"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-link: https://visualresources.princeton.edu
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
