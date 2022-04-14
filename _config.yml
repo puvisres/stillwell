@@ -52,8 +52,6 @@ metadata: demo-metadata
 #
 organization-name: "Visual Resources, Department of Art and Archaeolog"
 organization-link: https://visualresources.princeton.edu
-organization-logo-banner: /objects/LOGOvr.png
-organization-logo-nav: /objects/LOGOvr.png
 
 ##########
 # GOOGLE SERVICES [optional!]
