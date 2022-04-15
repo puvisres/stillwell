@@ -11,7 +11,7 @@
 {% capture audiosampleid %}{{ audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3" }}{% endcapture %}
 
 
-## About the About Page
+## About the Stillwell collection and this website
 
 The Richard Stillwell Collection consists of ~ 1200 photographic negatives, organized by location.
 
