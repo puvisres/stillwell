@@ -1,7 +1,7 @@
 # Example Stillwell Collection
 
 Trying Collection Builder as an alternative to Omeka for static site generation and flat metadata. 
-The next steps: processing the images into tiled TIFFs for a serverless-iiif AWS S3 bucket. All images on the Stillwell collection site will be freely available. 
+All images on the Stillwell collection site will be freely available. 
 
 ## Brief Overview of Building a Collection
 
