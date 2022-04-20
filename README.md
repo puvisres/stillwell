@@ -1,4 +1,4 @@
-# Example Stillwell Collection
+# Example Collection Builder: Stillwell Collection
 
 Trying Collection Builder as an alternative to Omeka for static site generation and flat metadata. 
 All images on the Stillwell collection site will be freely available. 
